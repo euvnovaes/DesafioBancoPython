@@ -3,6 +3,11 @@
 ### Descrição
 Este projeto, desenvolvido durante o curso "NTT DATA - Engenharia de Dados com Python" da DIO, simula um banco básico com funcionalidades de depósito, saque e extrato. Ele serve como um ponto de partida para quem deseja aprender Python e explorar conceitos de programação financeira.
 
+### Certificados
+Ao concluir este projeto, recebi um certificado da DIO, comprovando minha participação e aprendizado no curso "NTT DATA - Engenharia de Dados com Python". Este certificado é um reconhecimento valioso para minha jornada de aprendizado em programação e engenharia de dados.
+
+![Certificado DIO](https://github.com/euvnovaes/DesafioBancoPython/blob/main/LR73TFOB.webp)
+
 ### Funcionalidades
 * **Depósito:** Permite adicionar valores ao saldo da conta.
 * **Saque:** Permite retirar valores do saldo da conta, respeitando limites.
